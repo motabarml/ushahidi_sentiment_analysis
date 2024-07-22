@@ -1,0 +1,9 @@
+pandas
+gspread
+oauth2client
+textblob
+nltk
+nrclex
+joblib
+google-cloud-translate
+pyyaml
